@@ -1,0 +1,6 @@
+(cd "~/")
+(load "~/.emacs.d/frame")
+;(load "~/.emacs.d/skk")
+(load "~/.emacs.d/selc")
+;(load "~/.emacs.d/w3m")
+;(load "~/.emacs.d/mew")
